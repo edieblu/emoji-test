@@ -7,3 +7,5 @@ awesome new feature
 super cool new feature relased
 
 this fixes some stuff
+
+more stuff
